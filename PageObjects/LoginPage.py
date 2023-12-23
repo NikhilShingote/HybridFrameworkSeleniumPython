@@ -1,6 +1,6 @@
-from selenium import webdriver
+
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
+
 
 class Loginpage:
     # Write the elements you want to capture here and store it in a variable
